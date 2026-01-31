@@ -13,7 +13,6 @@
  
 <img src="https://github.com/user-attachments/assets/983ccbef-500b-48cd-95b3-32eab6ece943" width="300"/>
 
-
 - 5. Печатная макетная плата (1 штука)
 
 - 6. Набор для пайки с паяльником.
@@ -44,12 +43,13 @@
          +----------+
 ```
 
-# КОД для Digispark
+# Код для Digispark
 Делать через Visual Studio Code с расширением platform io.
 
 Заменить содержимое /src/main.cpp на код ниже:
 
-```void setup() {
+```
+void setup() {
   pinMode(0, OUTPUT);
   digitalWrite(0, LOW);
   delay(1500);
