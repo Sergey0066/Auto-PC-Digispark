@@ -19,7 +19,7 @@
 - 6. Набор для пайки с паяльником.
  
 # Схема
-
+```
    5V источник
    +5V   GND
     |     |
@@ -42,13 +42,14 @@
          | 3 ----+ |----> PWR_SW
          |          |
          +----------+
+```
 
 # КОД для Digispark
 Делать через Visual Studio Code с расширением platform io.
 
 Заменить содержимое /src/main.cpp на код ниже:
 
-void setup() {
+```void setup() {
   pinMode(0, OUTPUT);
   digitalWrite(0, LOW);
   delay(1500);
@@ -57,5 +58,6 @@ void setup() {
   digitalWrite(0, LOW);
 }
 void loop() {}
+```
 
 # Продолжение скоро будет...
