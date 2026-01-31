@@ -11,7 +11,7 @@
 
 - 4. Комплект соединительных проводов Dupont
  
-![photo_2026-01-31_16-24-06](https://github.com/user-attachments/assets/983ccbef-500b-48cd-95b3-32eab6ece943)
+<img src="https://github.com/user-attachments/assets/983ccbef-500b-48cd-95b3-32eab6ece943" width="300"/>
 
 
 - 5. Печатная макетная плата (1 штука)
