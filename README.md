@@ -60,7 +60,5 @@ void setup() {
 void loop() {}
 ```
 
-### Подробнее
-
-Если есть вопросы, пишите мне в телеграмме: [Telegram](https://t.me/relaxamy) — буду рад помочь!
+### Если есть вопросы, пишите мне в телеграмме: [Telegram](https://t.me/relaxamy)
 
