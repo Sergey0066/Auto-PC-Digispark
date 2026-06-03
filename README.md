@@ -63,6 +63,5 @@ void loop() {}
 
 <img src="https://github.com/user-attachments/assets/164f772a-c3b0-4a6d-b228-0fc2ff77ae2f" width="300"/>
 
-
 ### Если есть вопросы, пишите мне в телеграмме: [Telegram](https://t.me/relaxamy)
 
